@@ -1,0 +1,14 @@
+C:\Users\rkpra\Desktop\C#\logic\bin\Debug\net8.0\logic.exe
+C:\Users\rkpra\Desktop\C#\logic\bin\Debug\net8.0\logic.deps.json
+C:\Users\rkpra\Desktop\C#\logic\bin\Debug\net8.0\logic.runtimeconfig.json
+C:\Users\rkpra\Desktop\C#\logic\bin\Debug\net8.0\logic.dll
+C:\Users\rkpra\Desktop\C#\logic\bin\Debug\net8.0\logic.pdb
+C:\Users\rkpra\Desktop\C#\logic\obj\Debug\net8.0\logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkpra\Desktop\C#\logic\obj\Debug\net8.0\logic.AssemblyInfoInputs.cache
+C:\Users\rkpra\Desktop\C#\logic\obj\Debug\net8.0\logic.AssemblyInfo.cs
+C:\Users\rkpra\Desktop\C#\logic\obj\Debug\net8.0\logic.csproj.CoreCompileInputs.cache
+C:\Users\rkpra\Desktop\C#\logic\obj\Debug\net8.0\logic.dll
+C:\Users\rkpra\Desktop\C#\logic\obj\Debug\net8.0\refint\logic.dll
+C:\Users\rkpra\Desktop\C#\logic\obj\Debug\net8.0\logic.pdb
+C:\Users\rkpra\Desktop\C#\logic\obj\Debug\net8.0\logic.genruntimeconfig.cache
+C:\Users\rkpra\Desktop\C#\logic\obj\Debug\net8.0\ref\logic.dll

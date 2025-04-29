@@ -1,0 +1,14 @@
+C:\Users\rkpra\Desktop\C#\nestedLoop\obj\Debug\net8.0\nestedLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkpra\Desktop\C#\nestedLoop\obj\Debug\net8.0\nestedLoop.AssemblyInfoInputs.cache
+C:\Users\rkpra\Desktop\C#\nestedLoop\obj\Debug\net8.0\nestedLoop.AssemblyInfo.cs
+C:\Users\rkpra\Desktop\C#\nestedLoop\obj\Debug\net8.0\nestedLoop.csproj.CoreCompileInputs.cache
+C:\Users\rkpra\Desktop\C#\nestedLoop\bin\Debug\net8.0\nestedLoop.exe
+C:\Users\rkpra\Desktop\C#\nestedLoop\bin\Debug\net8.0\nestedLoop.deps.json
+C:\Users\rkpra\Desktop\C#\nestedLoop\bin\Debug\net8.0\nestedLoop.runtimeconfig.json
+C:\Users\rkpra\Desktop\C#\nestedLoop\bin\Debug\net8.0\nestedLoop.dll
+C:\Users\rkpra\Desktop\C#\nestedLoop\bin\Debug\net8.0\nestedLoop.pdb
+C:\Users\rkpra\Desktop\C#\nestedLoop\obj\Debug\net8.0\nestedLoop.dll
+C:\Users\rkpra\Desktop\C#\nestedLoop\obj\Debug\net8.0\refint\nestedLoop.dll
+C:\Users\rkpra\Desktop\C#\nestedLoop\obj\Debug\net8.0\nestedLoop.pdb
+C:\Users\rkpra\Desktop\C#\nestedLoop\obj\Debug\net8.0\nestedLoop.genruntimeconfig.cache
+C:\Users\rkpra\Desktop\C#\nestedLoop\obj\Debug\net8.0\ref\nestedLoop.dll
