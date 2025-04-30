@@ -32,3 +32,37 @@
 
 // int result = Convert.ToInt32(value1) + Convert.ToInt32(value2);
 // Console.WriteLine(result);
+
+//TryParse() a string into an int
+// string value ="hello";
+// int result = 0;
+// if(int.TryParse(value, out result))
+// {
+//     Console.WriteLine($"Measurement: {result}");
+// }else 
+// {
+//    Console.WriteLine("Unable to report the measurement.");
+// }
+//Exercise - Complete a challenge to combine string array values as strings and as integers
+string[] values = { "12.3", "45", "ABC", "11", "DEF" };
+decimal total = 0m;
+string Message = "";
+foreach(var value in values){
+    decimal number;  // stores the TryParse "out" value
+
+    if(decimal.TryParse(value, out number))
+    //out is a C# keyword that passes a variable by reference.
+
+    //It means TryParse will write the parsed number into number if it succeeds.
+
+    //number is the output variable where the result will be stored.
+    {
+        // Console.WriteLine($"integer : {value}");
+        total += number;
+    }
+    else{
+        Message += value;
+    }
+}
+    Console.WriteLine($"Messsage: {Message}");
+    Console.WriteLine($"Total: {total}");
