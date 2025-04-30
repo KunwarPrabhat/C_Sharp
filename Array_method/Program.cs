@@ -70,3 +70,9 @@
 // // string result = new string(valueArray);
 // string result = String.Join(",", valueArray);
 // Console.WriteLine(result);
+
+//Use the Remove() method
+
+// string data = "12345John Smith          5000  3  ";
+// string updatedData = data.Remove(5, 20); //123455000  3 (Output)
+// Console.WriteLine(updatedData);
