@@ -1,0 +1,15 @@
+C:\Users\rkpra\Desktop\C#\Array_method\bin\Debug\net8.0\Array_method.exe
+C:\Users\rkpra\Desktop\C#\Array_method\bin\Debug\net8.0\Array_method.deps.json
+C:\Users\rkpra\Desktop\C#\Array_method\bin\Debug\net8.0\Array_method.runtimeconfig.json
+C:\Users\rkpra\Desktop\C#\Array_method\bin\Debug\net8.0\Array_method.dll
+C:\Users\rkpra\Desktop\C#\Array_method\bin\Debug\net8.0\Array_method.pdb
+C:\Users\rkpra\Desktop\C#\Array_method\obj\Debug\net8.0\Array_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkpra\Desktop\C#\Array_method\obj\Debug\net8.0\Array_method.AssemblyInfoInputs.cache
+C:\Users\rkpra\Desktop\C#\Array_method\obj\Debug\net8.0\Array_method.AssemblyInfo.cs
+C:\Users\rkpra\Desktop\C#\Array_method\obj\Debug\net8.0\Array_method.csproj.CoreCompileInputs.cache
+C:\Users\rkpra\Desktop\C#\Array_method\obj\Debug\net8.0\Array_method.sourcelink.json
+C:\Users\rkpra\Desktop\C#\Array_method\obj\Debug\net8.0\Array_method.dll
+C:\Users\rkpra\Desktop\C#\Array_method\obj\Debug\net8.0\refint\Array_method.dll
+C:\Users\rkpra\Desktop\C#\Array_method\obj\Debug\net8.0\Array_method.pdb
+C:\Users\rkpra\Desktop\C#\Array_method\obj\Debug\net8.0\Array_method.genruntimeconfig.cache
+C:\Users\rkpra\Desktop\C#\Array_method\obj\Debug\net8.0\ref\Array_method.dll
