@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rkpra\\Desktop\\C#\\TestProject\\TestProject.csproj",
-      "projectName": "TestProject",
-      "projectPath": "C:\\Users\\rkpra\\Desktop\\C#\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\rkpra\\Desktop\\C#\\Debugging\\Debugging.csproj",
+      "projectName": "Debugging",
+      "projectPath": "C:\\Users\\rkpra\\Desktop\\C#\\Debugging\\Debugging.csproj",
       "packagesPath": "C:\\Users\\rkpra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rkpra\\Desktop\\C#\\TestProject\\obj\\",
+      "outputPath": "C:\\Users\\rkpra\\Desktop\\C#\\Debugging\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rkpra\\AppData\\Roaming\\NuGet\\NuGet.Config",
